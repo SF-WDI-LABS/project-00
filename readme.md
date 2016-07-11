@@ -47,8 +47,8 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### When is it due?
 
-* **Assigned:** Friday, Nov 6th
-* **Due:** Monday, Nov 9th @ 9:17am
+* **Assigned:** Friday, July 8th
+* **Due:** Monday, July 11h @ 9:17am
 
 ---
 
@@ -117,7 +117,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 ###### How do I turn in the project?
 
 * As you make code changes, frequently commit and push to GitHub.
-* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to <a href="https://docs.google.com/spreadsheets/d/1HF3ZA0Mdw0HGXJU3Sid14zl2qZHCAIg0X1gwFQNPSVE/edit?usp=sharing" target="_blank">this spreadsheet</a>.
+* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to <a href="https://docs.google.com/spreadsheets/d/1_9NVL9ZTNqPxl9TpWTr3VTJrkEFtCudvert7jPciYvw/edit?usp=sharing" target="_blank">this spreadsheet</a>.
 
 ## Bonus
 
